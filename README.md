@@ -2,6 +2,24 @@
 
 BookSpeak AI is a premium, full-featured commercial-grade PDF-to-Audiobook generator built entirely with free, open-source, and zero-cost technologies. It leverages advanced Microsoft Edge TTS Neural voice talents and Google Gemini 3.5-Flash to clean, structure, describe, and narrate books up to 1GB.
 
+<img width="1866" height="971" alt="image" src="https://github.com/user-attachments/assets/f88231a3-c94c-4a85-8caa-f37e1055081d" />
+<img width="1526" height="937" alt="image" src="https://github.com/user-attachments/assets/307af6c4-b3a6-4b7b-a5d7-5f726f896648" />
+<img width="1877" height="972" alt="image" src="https://github.com/user-attachments/assets/5992db99-958a-4639-85d7-cea72956ca82" />
+
+NOTE-:📖 Important Note for Users
+Conversion Time  
+When you upload a book (PDF or text), the system may take some time to convert it into audio. This delay happens because the free tier model is being used, which has limited processing speed compared to premium services. Please be patient — the conversion is happening in the background.
+
+Playback & Download Delay  
+After conversion, the app may also take a little while to start playing or downloading the audio file. This is normal. Don’t assume the app has stopped working — just give it a moment to finish preparing the audio.
+
+Voice Quality Options  
+By default, the free tier uses standard voices. For higher quality, more natural narration, you can switch to the premium voices available in the app. These premium voices are provided free for testing, and they deliver a smoother, more human‑like audiobook experience.
+
+User Tip  
+If you want the most natural “narrator” style voice (like professional audiobook readers), select one of the premium voices in the settings panel. This will greatly improve clarity, pacing, and overall listening quality.
+
+
 ---
 
 ## 🚀 Key Architectural Decisions
