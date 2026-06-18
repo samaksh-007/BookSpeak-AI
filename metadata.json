@@ -1,0 +1,8 @@
+{
+  "name": "Remix: BookSpeak AI",
+  "description": "Your free smart PDF-to-Audiobook generator with automated OCR cleanup, chapter detection, and human-like natural narrative speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
